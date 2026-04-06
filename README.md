@@ -4,8 +4,8 @@
 
 ## Create Beautiful WhatsApp QR Codes for Your Business
 
-[![Live Demo](https://img.shields.io/badge/Try_It_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://your-app.vercel.app)
-[![Free to Use](https://img.shields.io/badge/Free_to_Use-4CAF50?style=for-the-badge&logo=check&logoColor=white)](https://your-app.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Try_It_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp-qr-generator.vercel.app/)
+[![Free to Use](https://img.shields.io/badge/Free_to_Use-4CAF50?style=for-the-badge&logo=check&logoColor=white)](https://whatsapp-qr-generator.vercel.app/)
 
 ### Generate custom WhatsApp QR codes in seconds. Track scans. Grow your business.
 
@@ -17,11 +17,11 @@
 
 | Landing Page | Dashboard | QR Generator |
 |--------------|-----------|--------------|
-| ![Landing](screenshots/landing.png) | ![Dashboard](screenshots/dashboard.png) | ![Generator](screenshots/generator.png) |
+| ![Landing](screenshots/page.jpg) | ![Dashboard](screenshots/Dashboard.jpg) | ![Generator](screenshots/generator.png) |
 
-| Ad System | Analytics | Download |
-|-----------|-----------|----------|
-| ![Ads](screenshots/ad-modal.png) | ![Analytics](screenshots/Analytics.jpg) | ![Download](screenshots/download.png) |
+| Analytics | Download |
+|-----------|----------|
+| ![Analytics](screenshots/Analytics.jpg) | ![Download](screenshots/qr.jpg) |
 
 ---
 
@@ -128,7 +128,7 @@ See how many people scan your QR code. View analytics to measure engagement.
 
 ## 🚀 Ready to Get Started?
 
-### Step 1: Visit [our website](https://your-app.vercel.app)
+### Step 1: Visit [our website](https://whatsapp-qr-generator.vercel.app/)
 ### Step 2: Create your free account
 ### Step 3: Watch 3 short ads (earn your first QR code)
 ### Step 4: Generate your custom WhatsApp QR code
@@ -136,57 +136,3 @@ See how many people scan your QR code. View analytics to measure engagement.
 
 ---
 
-## 💬 Testimonials
-
-> "This QR generator helped my coffee shop get 50+ new WhatsApp orders in the first week!"  
-> **— Sarah, Coffee Shop Owner**
-
-> "Love the analytics feature. I can see exactly when customers are scanning my menu QR codes."  
-> **— Michael, Restaurant Manager**
-
-> "Finally a free QR generator that actually looks professional. The custom colors match my brand perfectly."  
-> **— Jessica, Freelance Designer**
-
----
-
-## 📞 Need Help?
-
-- **Live Demo:** [https://your-app.vercel.app](https://your-app.vercel.app)
-- **Support:** support@yourapp.com
-- **FAQ:** [View FAQ](#)
-
----
-
-## ❓ Frequently Asked Questions
-
-**Is it really free?**  
-Yes! Watch 3 short ads to generate 1 QR code. No credit card needed.
-
-**How long do the ads take?**  
-Each ad is 5 seconds. 3 ads = 15 seconds for a QR code.
-
-**Can I use this for my business?**  
-Absolutely! Designed for businesses of all sizes.
-
-**What if I need multiple QR codes?**  
-Watch more ads to earn more credits. Each QR code costs 3 ads.
-
-**Is my data safe?**  
-Yes. We use secure authentication and encrypted storage.
-
-**Can I update my QR code later?**  
-Yes! Choose "Dynamic QR" when generating to update anytime.
-
----
-
-<div align="center">
-
-### Start Connecting With Customers Today
-
-[![Get Started Now](https://img.shields.io/badge/🚀_Get_Started_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://your-app.vercel.app)
-
-**Free. Simple. Powerful.**
-
-© 2024 WhatsApp QR Generator
-
-</div># whatsapp-qr-code-generator
