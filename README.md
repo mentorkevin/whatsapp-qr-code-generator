@@ -118,7 +118,7 @@ See how many people scan your QR code. View analytics to measure engagement.
 
 | Alternative | Our Solution |
 |-------------|--------------|
-| 💰 $10-50/month subscriptions | **FREE with ads** |
+| 💰 no subscriptions | **FREE with ads** |
 | 📊 No analytics | **Full scan tracking** |
 | 🎨 Basic designs | **Custom colors** |
 | 🔒 No dynamic QR | **Updateable links** |
