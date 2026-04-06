@@ -21,7 +21,7 @@
 
 | Ad System | Analytics | Download |
 |-----------|-----------|----------|
-| ![Ads](screenshots/ad-modal.png) | ![Analytics](screenshots/analytics.png) | ![Download](screenshots/download.png) |
+| ![Ads](screenshots/ad-modal.png) | ![Analytics](screenshots/Analytics.jpg) | ![Download](screenshots/download.png) |
 
 ---
 
