@@ -17,7 +17,7 @@
 
 | Landing Page | Dashboard | QR Generator |
 |--------------|-----------|--------------|
-| ![Landing](screenshots/page.jpg) | ![Dashboard](screenshots/Dashboard.jpg) | ![Generator](screenshots/generator.png) |
+| ![Landing](screenshots/page.jpg) | ![Dashboard](screenshots/Dashboard.jpg) | ![Generator](screenshots/generate.jpg) |
 
 | Analytics | Download |
 |-----------|----------|
